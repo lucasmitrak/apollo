@@ -1,0 +1,13 @@
+*.pyc
+.coverage
+__pycache__/
+.cache/
+.webassets-cache
+env/
+*.db
+htmlcov/
+*.sublime-*
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml

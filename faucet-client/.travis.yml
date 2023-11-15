@@ -1,0 +1,9 @@
+language: python
+python:
+  - "2.7"
+install: "pip install flake8"
+script:
+  - flake8 main.py
+  - flake8 sensors.py
+  - flake8 save.py
+  - flake8 arduino.py

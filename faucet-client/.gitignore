@@ -1,0 +1,12 @@
+*.pyc
+*.db
+*.swp
+*.csv
+rtc.py
+rtc_test.py
+rtctest.py
+*.ini
+ENV/
+pep8.sh
+*.bak
+pep8.sh
